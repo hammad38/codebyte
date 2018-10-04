@@ -1,0 +1,14 @@
+{
+  "name": "codebyte",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal profile and branding project.",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.0"
+  },
+  "author": "Sayyed Hammad Ali",
+  "homepage": "https://hammad38.github.io/codebyte"
+}
