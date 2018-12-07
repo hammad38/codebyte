@@ -1,6 +1,6 @@
 # CodeByte
 
-LiveSite Url: https://hammad38.github.io/codebyte/
+LiveSite Url: https://sayyedhammadali.github.io/codebyte/
 
 ## Configuration
 
