@@ -1,6 +1,6 @@
-# CodeByte
+# SHA
 
-LiveSite Url: https://sayyedhammadali.github.io/codebyte/
+LiveSite Url: https://sayyedhammadali.github.io/sha/
 
 ## Configuration
 
