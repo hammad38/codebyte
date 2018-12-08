@@ -1388,7 +1388,7 @@ input::-moz-focus-inner {
   font-family: "metropolis-semibold", sans-serif;
   font-size: 11px;
   line-height: 1.363;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   letter-spacing: 0.25rem;
   margin-bottom: 4.8rem;
   margin-top: 0.9rem;
@@ -2999,6 +2999,10 @@ html.no-csstransitions .home-content__main {
   margin-bottom: 4.8rem;
 }
 
+.contact-main p {
+  margin-bottom: 0;
+}
+
 .contact-email {
   display: inline-block;
   font-family: "metropolis-light", sans-serif;
@@ -3019,7 +3023,10 @@ html.no-csstransitions .home-content__main {
   left: 0;
 }
 
-.contact-number {
+.contact-email,
+.contact-skype,
+.contact-number
+{
   font-family: "metropolis-light", sans-serif;
   font-size: 3rem;
   line-height: 1.7;
